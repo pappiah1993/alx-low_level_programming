@@ -13,6 +13,7 @@ int main(void)
 	long int num;
 	long long int nums;
 	float doc;
+
 	printf("Size of a char: %lu byte(s)\n", sizeof(number));
 	printf("Size of an int: %lu byte(s)\n", sizeof(age));
 	printf("size of a long int: %lu byte(s)\n", sizeof(num));
